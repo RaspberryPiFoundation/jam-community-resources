@@ -9,6 +9,7 @@ A curated list of learning resources, worksheets and activities ideal for use at
 - [Hull Raspberry Jam resources](https://github.com/HullRaspJam/HullRaspJam_Worksheets)
 - [CamJam EduKit worksheets](https://github.com/CamJam-EduKit/)
 - [Northern Ireland Raspberry Jam worksheets](https://github.com/NIRaspberryJam/Raspberry-Jam-Resources)
+- [Egham Raspberry Jam worksheets](https://github.com/winkleink/RJam-Worksheets)
 
 ## Individual resources
 
