@@ -1,3 +1,11 @@
+# jam-community-resources
+
+**THIS REPOSITORY HAS BEEN ARCHIVED AND IS NOW READ-ONLY**
+
+This project is no longer actively maintained. No new issues or pull requests will be accepted here.
+
+The project was archived on 29 April 2026 due to staleness (2885 days since last commit).
+
 # Raspberry Jam resources
 
 A curated list of learning resources, worksheets and activities ideal for use at Raspberry Jams.
